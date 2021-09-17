@@ -15,9 +15,9 @@ Based of this analysis, I have discovered some findings:
 - Rural cities have the highest amount of average fares per ride 
 - Rural cities have the highest amount of avergae fares per driver
 
-The second image is a chart showing the total fares by city type
+The second image is a chart showing the total fares by city type:
 
-<img width="983" alt="Screen Shot 2021-09-16 at 1 56 40 PM" src="https://user-images.githubusercontent.com/88408350/133684550-632e0995-1d34-4481-a8e4-9677a32ffe5a.png">
+<img width="983" alt="Screen Shot 2021-09-16 at 6 53 36 PM" src="https://user-images.githubusercontent.com/88408350/133711272-a820cb01-f771-41ae-a9f3-37532f9f2554.png">
 
 ## Summary
 Here are three business recommendations to the CEO for addressing any disparities among the city types: 
